@@ -150,8 +150,8 @@ Returns available and assigned drivers.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/dispatchflow-ai.git
-cd dispatchflow-ai
+git clone https://github.com/your-username/ai-dispatch-engine.git
+cd ai-dispatch-engine
 ```
 
 ---
@@ -240,6 +240,4 @@ This is required for:
 * If the AI agent fails, the system retries automatically
 * All job updates are logged internally
 * Queue must be running for full functionality
-
-```
 
